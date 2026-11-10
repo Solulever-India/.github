@@ -1,5 +1,10 @@
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://admin.brabo.io/wp-content/uploads/2024/02/dark_logo.png">
+  <img alt="Brabo by Solulever" src="https://admin.brabo.io/wp-content/uploads/2024/02/light_logo.png" width="420">
+</picture>
+
 # Solulever
 
 ### Elevating Manufacturing to Operational Brilliance
@@ -34,6 +39,8 @@ Brabo goes beyond traditional IIoT software. It connects plant equipment to IT s
 | **Brabo AIQ** | Conversational AI over contextualized plant data |
 | **Cloud-agnostic** | Runs on AWS, GCP, Azure or private cloud, with a headless, microservices-based architecture |
 
+<p align="center"><img src="https://admin.brabo.io/wp-content/uploads/2024/06/Knowledge-Graph.webp" alt="Brabo AIQ: contextualized manufacturing data powering GenAI" width="640"></p>
+
 ## ⚡ Brabo at the Edge
 
 - **Brabo Lite Appliance (BLA):** preinstalled OT integration bridge, data streamed to the cloud, 24-hour local backup against data loss.
@@ -50,6 +57,19 @@ Brabo goes beyond traditional IIoT software. It connects plant equipment to IT s
 | [eBMR](https://brabo.io/en/service/ebmr-application/) | Paperless electronic batch records |
 | [Sustainability](https://brabo.io/en/service/sustainability-app/) | Energy and emissions tracking |
 | [Remote ManOps](https://brabo.io/en/service/remote-manops-app/) | Remote manufacturing operations |
+
+### A look inside
+
+<table>
+  <tr>
+    <td width="50%"><img src="https://admin.brabo.io/wp-content/uploads/2023/11/Assets-Analytics-home-page-Carousel.png" alt="Brabo Asset Analytics"><br><sub><b>Asset Analytics</b>: plant overview, downtime causes, utilization</sub></td>
+    <td width="50%"><img src="https://admin.brabo.io/wp-content/uploads/2023/11/Process-Analytics-Home-page-1.png" alt="Brabo Process Analytics"><br><sub><b>Process Analytics</b>: production &amp; process order overview</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="https://admin.brabo.io/wp-content/uploads/2023/11/workflow-builder-website-homescreen@3x@3x-1-scaled.webp" alt="Brabo no-code workflow builder"><br><sub><b>Workflow Builder</b>: no-code process automation</sub></td>
+    <td width="50%"><img src="https://admin.brabo.io/wp-content/uploads/2023/11/Application-Page-Hero-Banner.webp" alt="Brabo Apps"><br><sub><b>Brabo Apps</b>: ready-to-deploy manufacturing applications</sub></td>
+  </tr>
+</table>
 
 ## 💡 Why Brabo
 
